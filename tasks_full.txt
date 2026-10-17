@@ -1,0 +1,1 @@
+task_id,dispatch_time,node_synced_at,cluster,task_type,free_vram_gb,prompt_length,success
